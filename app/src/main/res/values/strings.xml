@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PAUSE</string>
+    <string name="service_description">Required to detect app launched</string>
+    <string name="service_label">PAUSE</string>
+
+    <string name="permission_title">Permission</string>
+    <string name="permission_description">You should enable service in "Installed services" to let us detect launching bad apps.</string>
+    <string name="permission_continue">OK</string>
+    <string name="permission_cancel">Cancel</string>
+
+    <string name="pause_default">Pause for a few seconds.</string>
+    <string name="pause_continue">Continue to %s</string>
+</resources>
